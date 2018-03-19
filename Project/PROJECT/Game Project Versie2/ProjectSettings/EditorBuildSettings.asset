@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MenuScreen/SCN_Start.unity
+    guid: 4f897ec077c67244a9fd6d7170304ff3
+  - enabled: 1
+    path: Assets/Scene/MenuScreen/SCN_PickPlayer.unity
+    guid: ab978f40f79dc464ea1d663e36936fb1
+  - enabled: 0
+    path: Assets/Scene/SCN_Demo.unity
+    guid: b7c3fbc56cf1acf4e802a320f2355af5
+  - enabled: 1
+    path: Assets/Scene/MenuScreen/SCN_Settings.unity
+    guid: bc9cfb959b60dd44ca921acc55a85410
+  - enabled: 0
+    path: Assets/Scene/SCN_Circuit.unity
+    guid: 5055d2949bbe30d4ab23c803c12fbdf4
+  - enabled: 0
+    path: Assets/Scene/SCN_MaxTest.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/MenuScreen/SCN_Controls.unity
+    guid: 9b818a1edb77dc24d9c465c9dce621f5
+  - enabled: 0
+    path: Assets/Scene/SCN_DuelSceneVersie2.unity
+    guid: a139a9a4b3fbbd24bab61b120af497ba
+  - enabled: 0
+    path: Assets/Scene/SCN_Sam02.unity
+    guid: 7da30bbf4ff9b504c8e7f9d92fa549dd
+  - enabled: 1
+    path: Assets/Scene/SCN_buildscene.unity
+    guid: 7d5fadec5d9cd174b8afec573a418845

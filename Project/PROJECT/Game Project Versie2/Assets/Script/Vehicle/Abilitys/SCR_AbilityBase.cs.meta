@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e25fa45e5056f874ca44bba83055b2fa
+timeCreated: 1497007829
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - UiSprite: {instanceID: 0}
+  - VisualModel: {instanceID: 0}
+  - _AbilityIndicator: {instanceID: 0}
+  - _SoundHolder: {fileID: 1662705724028616, guid: 6e1fd343c6e3f7c47b4b51e8be4b5e34,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

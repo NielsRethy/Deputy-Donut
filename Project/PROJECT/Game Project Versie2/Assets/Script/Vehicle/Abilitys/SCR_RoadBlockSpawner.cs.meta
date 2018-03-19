@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b95e62c3138a4d4dac93fb3cf276672
+timeCreated: 1496078527
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RoadBlockPreFab: {instanceID: 0}
+  - SpawnLocation: {instanceID: 0}
+  - audioFiles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
